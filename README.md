@@ -12,4 +12,6 @@ I have used the Oxford IIIT Pet dataset, which consists of three classes:
 2. Border
 3. Background
 <br>
+<h2>I took only 10 epochs in training, each epoch took almost 1 hr to train, but I've trained the model for just 2 hrs and still the results are pretty good :)</h2>
+<br>
 <h2><b>Dataset:</b><a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmNEbDd3RTZKQnRuM25ibXlfT1k0ZzRuM1JDUXxBQ3Jtc0tsRHZCN0RCbXJMVWFBLTBuVEdQNUNmNV9aTkZVN0NzQ1N2ZS0wOVdKN1BReGxxbnRIcGptWENTQXV3VFVCbDRUOHFfRXk4bjlBNVpjVHNNOVNZLWJhcVlHTGVZcTZBUXBaVWxzNzhUVEl5UXE4eE9vNA&q=https%3A%2F%2Fwww.robots.ox.ac.uk%2F%7Evgg%2Fdata%2Fpets"> Oxford IIIT Pet dataset</a></h2>
