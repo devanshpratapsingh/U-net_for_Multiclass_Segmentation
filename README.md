@@ -13,7 +13,7 @@ I have used the Oxford IIIT Pet dataset, which consists of three classes:
 3. Background
 <br>
 <b>I took only 10 epochs in training, each epoch took almost 1 hr to train, but I've trained the model for just 2 hrs and still the results are pretty good :)</b>
-<b>The first image is the input, secont is the masked image and third one is the output we got, train the model for longer and you'll get better results.</b>
+<br><b>The first image is the input, second one is the masked image and third one is the output we got, train the model for longer and you'll get better results.</b>
 <img src="readme_images/Abyssinian_31.jpg" height="180px" width="360px" align="middle"></img>
 <img src="readme_images/american_bulldog_72.jpg" height="180px" width="360px" align="middle"></img>
 <img src="readme_images/american_pit_bull_terrier_61.jpg" height="180px" width="360px" align="middle"></img>
